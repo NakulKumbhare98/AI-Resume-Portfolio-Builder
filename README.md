@@ -17,9 +17,3 @@ An AI-powered Resume Analyzer built with Streamlit and Google Gemini.
 
 ## Author
 Nakul Kumbhare
-
-
-
-
-
-!
