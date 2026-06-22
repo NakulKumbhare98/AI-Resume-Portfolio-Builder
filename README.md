@@ -6,7 +6,7 @@ AI Resume & Portfolio Builder is an AI-powered web application that helps studen
 
 ## 🌐 Live Demo
 
-👉 https://resume-tracking-project-aqds79yebtmngukqsblxcf.streamlit.app/
+👉 https://ai-resume-portfolio-builder-srty7vnplrhvsptxgvbcju.streamlit.app/
 
 ---
 
