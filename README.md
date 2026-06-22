@@ -1,32 +1,32 @@
-# Smart ATS Resume Analyzer
+# AI Resume & Portfolio Builder
 
-Smart ATS Resume Analyzer is an AI-powered web application that helps job seekers evaluate their resumes against a job description. Built using Streamlit, Google Gemini AI, and Python, the application provides an ATS match score, identifies missing keywords, and generates a professional profile summary to improve resume quality and increase interview chances.
+AI Resume & Portfolio Builder is an AI-powered web application that helps students, freshers, and professionals create ATS-friendly resumes, professional cover letters, portfolio website content, and interview preparation materials. Built using Streamlit, Google Gemini AI, and Python, the application simplifies the job application process by generating high-quality career documents tailored to a user's profile and target job role.
 
 ---
 
 ## 🌐 Live Demo
 
-👉 https://resume-tracking-project-aqds79yebtmngukqsblxcf.streamlit.app/
+👉 Add Your Streamlit Deployment Link Here
 
 ---
 
 ## 💻 GitHub Repository
 
-👉 https://github.com/NakulKumbhare98/Resume-Tracking-Project
+👉 Add Your GitHub Repository Link Here
 
 ---
 
 ## 🚀 Features
 
-* Upload resume in PDF format
-* Paste any job description
-* ATS Match Score calculation
-* Missing keyword detection
-* AI-generated profile summary
-* Resume improvement suggestions
+* Generate ATS-friendly resumes
+* Create professional cover letters
+* Generate complete portfolio website content
+* Build interview preparation guides
+* Personalized content based on user profile
+* Job-description-based document generation
 * Clean and user-friendly interface
 * Powered by Google Gemini AI
-* Real-time resume analysis
+* One-click content generation and download
 
 ---
 
@@ -42,68 +42,100 @@ Smart ATS Resume Analyzer is an AI-powered web application that helps job seeker
 
 ### AI Model
 
-* Google Gemini Flash
+* Google Gemini 2.5 Flash
 
 ### Libraries Used
 
 * Streamlit
 * Google Generative AI
-* PyPDF2
 * Python-dotenv
-* Streamlit Extras
+* PyPDF2
 
 ---
 
 ## 📁 Project Structure
 
 ```bash
-ATS-Resume-Analyzer/
+Smart-ATS-Resume-Analyzer/
 ├── app.py                  # Main Streamlit application
 ├── .env                    # API keys and environment variables
 ├── requirements.txt        # Project dependencies
 ├── README.md               # Project documentation
-└── sample_resume.pdf       # Sample resume for testing
+└── assets/                 # Images and resources (optional)
 ```
 
 ---
 
 ## ⚙️ How It Works
 
-1. Upload a resume in PDF format.
-2. Paste the desired Job Description.
-3. Click the Submit button.
-4. The application analyzes the resume using Gemini AI.
-5. Receive:
+1. Enter your personal and academic information.
+2. Add skills, projects, certifications, and experience.
+3. Paste the target Job Description.
+4. Select the desired feature.
+5. Generate AI-powered career documents instantly.
 
-   * ATS Match Score
-   * Missing Keywords
-   * Profile Summary
-   * Resume Improvement Insights
+The application can generate:
 
----
-
-## 📊 Sample Output
-
-### ATS Match Score
-
-* 70%
-
-### Missing Keywords
-
-* Data Science
-* Machine Learning
-* SQL
-
-### Profile Summary
-
-* Strong experience in frontend development.
-* Proficient in HTML, CSS, and JavaScript.
-* Good understanding of React and modern web technologies.
-* Experience working on real-world projects.
-* Resume aligns well with most job requirements.
+* ATS-Friendly Resume
+* Professional Cover Letter
+* Portfolio Website Content
+* Interview Preparation Guide
 
 ---
 
+## 📄 Generated Outputs
+
+### ATS Resume
+
+* Professional Resume Format
+* Skills Section
+* Education Details
+* Projects and Experience
+* ATS Optimization
+
+### Cover Letter
+
+* Personalized Introduction
+* Job-Specific Content
+* Professional Closing
+
+### Portfolio Website Content
+
+* Hero Section
+* About Me
+* Skills Section
+* Projects Section
+* Contact Information
+
+### Interview Preparation Guide
+
+* Technical Questions
+* HR Questions
+* Behavioral Questions
+* Suggested Answers
+
+---
+
+## 🎯 Use Cases
+
+* College Students
+* Freshers
+* Internship Applicants
+* Job Seekers
+* Career Switchers
+* Working Professionals
+
+---
+
+## 🚀 Future Enhancements
+
+* Resume PDF Export
+* Portfolio Website Generation
+* LinkedIn Profile Optimization
+* Multi-Template Resume Builder
+* AI Career Recommendations
+
+---
 
 ## ⭐ Show Your Support
 
@@ -116,3 +148,4 @@ If you like this project:
 ---
 
 ### Built with ❤️ using Python, Streamlit, Google Gemini AI, and PyPDF2
+
