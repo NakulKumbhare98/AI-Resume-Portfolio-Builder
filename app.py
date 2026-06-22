@@ -88,8 +88,8 @@ with col1:
     phone = st.text_input("Phone Number")
 
 with col2:
-    linkedin = st.text_input("LinkedIn URL(Optional)")
-    github = st.text_input("GitHub URL(Optional)")
+    linkedin = st.text_input("LinkedIn URL")
+    github = st.text_input("GitHub URL")
     location = st.text_input("Location")
 
 # =========================
