@@ -6,13 +6,13 @@ AI Resume & Portfolio Builder is an AI-powered web application that helps studen
 
 ## 🌐 Live Demo
 
-👉 Add Your Streamlit Deployment Link Here
+👉 https://resume-tracking-project-aqds79yebtmngukqsblxcf.streamlit.app/
 
 ---
 
 ## 💻 GitHub Repository
 
-👉 Add Your GitHub Repository Link Here
+👉 https://github.com/NakulKumbhare98/Resume-Tracking-Project
 
 ---
 
@@ -125,15 +125,6 @@ The application can generate:
 * Career Switchers
 * Working Professionals
 
----
-
-## 🚀 Future Enhancements
-
-* Resume PDF Export
-* Portfolio Website Generation
-* LinkedIn Profile Optimization
-* Multi-Template Resume Builder
-* AI Career Recommendations
 
 ---
 
